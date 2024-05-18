@@ -2,11 +2,11 @@
 Github boilerplate files.
 
 # What to include?
-| Type | | Name |
-| --- | --- | --- |
-| Ignore | | .gitignore |
-| License | | LICENSE |
-| Read Me| | README.md |
+| Type | Name |
+| --- | --- |
+| Ignore | .gitignore |
+| License | LICENSE |
+| Read Me | README.md |
 
 # License
 While I like the idea of requiring the ability to incorporate improvements
